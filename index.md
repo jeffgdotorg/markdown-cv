@@ -1,45 +1,36 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeff Gehlbach's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeff Gehlbach
+Technologist, Network Monitoring Professional, Open Source Booster.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jeffg@jeffg.org">jeffg@jeffg.org</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Solutions Architect at The OpenNMS Group
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Large-scale network and systems monitoring using [OpenNMS](https://www.opennms.org/) and related open-source technologies
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Monitoring and observability, automation, information security
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995-1998`
+__The University of North Alabama, Florence, AL, US__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`1998-1999`
+__The University of Alabama at Huntsville, Huntsville, AL, US__
 
 
 ## Awards
@@ -51,16 +42,19 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Writings
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Periodicals
 
-### Journals
+`2010-2011`
+- TechTarget
+Short tutorial columns about monitoring and managing networks and servers using OpenNMS, Net-SNMP, and related open-source software
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2016`
+- OpenSource.com
+Short retrospective and advocacy piece about the promise and urgency of software-defined networking as a growth area for open-source implementors
 
-`1669`
+
 Lectiones opticæ.
 
 etc. etc. etc.
