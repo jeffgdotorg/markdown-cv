@@ -62,7 +62,7 @@ __Solutions Architect__, The OpenNMS Group (Atlanta, GA, US and Raleigh, NC, US)
 - Speaking presentations at industry user groups and conferences including All Things Open, FOSDEM, ManageIQ Design Summit, Open Networking Summit, SCaLE, and Texas Linux Fest
 - Code and documentation contributions to OpenNMS and related projects including Net-SNMP
 
-`January 2007–November 2007`
+`2007–2007`
 __Senior Network Tools Engineer__, Cypress Communications (Atlanta, GA, US)
 
 - Developed, maintained, and supported internal-facing tools enabling the operation of a nationwide TDM / VoIP hybrid CLEC
@@ -70,14 +70,14 @@ __Senior Network Tools Engineer__, Cypress Communications (Atlanta, GA, US)
 - Coordinated implementation of CiscoWorks LMS for network device configuration management
 - Served on small team responsible for datacenter consolidation and cleanup
 
-`August 2005–December 2006`
+`2005–2006`
 __Information Security Engineer__, BellSouth Technology Group (contract-to-hire; Atlanta, GA, US)
 
 - Responsible for operational monitoring of Check Point firewall infrastructure across a 13-state service area
 - Implemented OpenNMS to replace ad-hoc firewall monitoring solution based on Nagios and Cacti
 - Collaborated with product owners, technical integration architects, and other internal and external stakeholders on the design and implementation of firewall rule-set changes
 
-`January 2002–June 2005`
+`2002–2005`
 __Software Engineer__, Concord Communications (Atlanta, GA, US)
 
 - Worked as part of a small team of developers on the SystemEDGE SNMP management agent and plugins for applications including Oracle RDBMS, MS SQL Server, Cisco Call Manager, and Microsoft IIS
@@ -87,7 +87,7 @@ __Software Engineer__, Concord Communications (Atlanta, GA, US)
 - Implemented minor bug fixes and enhancements to the SystemEDGE SNMP agent and its plug-ins written in C
 - Assisted sales teams as needed, continuing relationships developed in previous Professional Services role
 
-`November 2000–January 2002`
+`2000–2002`
 __Senior Professional Services Consultant__, Concord Communications (Atlanta, GA, US)
 
 - Worked with post-sales customers across verticals to design, implement, maintain, and improve installations of the eHealth integrated fault and performance management software suite
@@ -95,7 +95,7 @@ __Senior Professional Services Consultant__, Concord Communications (Atlanta, GA
 - Assisted sales teams, cultivating and maintaining relationships with account managers
 - Advocated for adoption of Linux as a supported platform for eHealth product suite, which then ran on Solaris, HP-UX, and Windows NT
 
-`November 1999-November 2000`
+`1999-2000`
 __Senior Systems Engineer__, NASA Integrated Services Network (contractor; Huntsville, AL, US)
 
 - Worked as part of a small team responsible for day-to-day operations of Solaris 2.6 and Solaris 7 servers supporting NISN's network management center
@@ -103,7 +103,7 @@ __Senior Systems Engineer__, NASA Integrated Services Network (contractor; Hunts
 - Gained exposure to commercial off-the-shelf network management platforms including Micromuse Netcool, HP Network Node Manager, and Concord eHealth
 - Assumed lead role in implementation of Concord eHealth fault and performance management suite
 
-`April 1999-November 1999`
+`1999`
 __Wide-Area Network Engineer__, NASA Integrated Services Network (contractor; Huntsville, AL, US)
 
 - Worked as part of a small team modernizing a massively heterogeneous network, transitioning legacy DECnet and AppleTalk sites to IPv4 and moving fractional T-1 spoke sites onto a hybrid frame-relay / ATM distribution model
@@ -111,14 +111,14 @@ __Wide-Area Network Engineer__, NASA Integrated Services Network (contractor; Hu
 - Cultivated and maintained relationships with NASA center staff and Huntsville-based network management center staff and management
 - Introduced Samba on Linux as a workgroup file-sharing solution, bridging gap between Windows desktops and Solaris servers
 
-`August 1998–April 1999`
+`1998–1999`
 __Support and Operations Engineer__, AIRnet Internet Services (Huntsville, AL, US)
 
 - Worked end-user support incidents via e-mail and phone
 - Pursued self-directed study of IP and ATM networking
 - Introduced Samba on Linux as an adjunct file-sharing solution into an otherwise Windows NT and Digital UNIX-only environment
 
-`August 1996-August 1997`
+`1996-1997`
 __Support and Operations Engineer__, Quest Internet Services (Florence, AL, US)
 
 - Assumed responsibility for all server infrastructure of a small dial-up only ISP
