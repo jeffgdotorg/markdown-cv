@@ -3,7 +3,7 @@ layout: cv
 title: Jeff Gehlbach's CV
 ---
 # Jeff Gehlbach
-Technologist, Network Monitoring Professional, Open Source Booster.
+Product Manager, Network Monitoring Professional, Open Source Technologist.
 
 <div id="webaddress">
 <a href="jeffg@jeffg.org">jeffg@jeffg.org</a>
@@ -12,7 +12,7 @@ Technologist, Network Monitoring Professional, Open Source Booster.
 
 ## Currently
 
-Solutions Architect at The OpenNMS Group
+Principal Product Manager at The OpenNMS Group
 
 ### Specialized in
 
@@ -55,10 +55,11 @@ __TechTarget__
 ## Occupation
 
 `2007–present`
-__Solutions Architect__, The OpenNMS Group (Atlanta, GA, US and Raleigh, NC, US)
+__Principal Product Manager__, The OpenNMS Group (Atlanta, GA, US and Raleigh, NC, US)
 
 - Hired from open-source user community as employee #7
-- Various titles held, with a through line of end-user incident support and worldwide on-site service delivery
+- Product manager for entire self-hosting portion of open-source monitoring product portfolio (Horizon and Lōkahi ecosystems)
+- Various titles held, with a through line of end-user incident support, worldwide on-site service delivery, and product management
 - Speaking presentations at industry user groups and conferences including All Things Open, FOSDEM, ManageIQ Design Summit, Open Networking Summit, SCaLE, and Texas Linux Fest
 - Code and documentation contributions to OpenNMS and related projects including Net-SNMP
 
@@ -74,7 +75,7 @@ __Senior Network Tools Engineer__, Cypress Communications (Atlanta, GA, US)
 __Information Security Engineer__, BellSouth Technology Group (contract-to-hire; Atlanta, GA, US)
 
 - Responsible for operational monitoring of Check Point firewall infrastructure across a 13-state service area
-- Implemented OpenNMS to replace ad-hoc firewall monitoring solution based on Nagios and Cacti
+- Implemented OpenNMS to replace home-grown firewall monitoring solution based on Nagios and Cacti
 - Collaborated with product owners, technical integration architects, and other internal and external stakeholders on the design and implementation of firewall rule-set changes
 
 `2002–2005`
@@ -157,7 +158,7 @@ __Co-Grand Poobah__, Atlanta Network and Systems Management Technical User Group
 - Used connections and skills to institute recording of meetings for online viewing
 
 `1993–ongoing`
-__Lazy polyglot__ (I like knowing how to order a meal and find my way around wherever I go)
+__Lazy polyglot__ (I like knowing how to order a meal and find my way around when traveling)
 
 - English: native speaker
 - Dutch: tiny smattering (A1)
@@ -168,6 +169,6 @@ __Lazy polyglot__ (I like knowing how to order a meal and find my way around whe
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: April 2023 -->
 
 
