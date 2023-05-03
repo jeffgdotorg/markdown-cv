@@ -26,6 +26,11 @@ Monitoring and observability, automation, information security
 
 ## Education
 
+`2021-2022`
+__Cornell University__ (eCornell, remote)
+
+- Product Management certificate program
+
 `1998-1999`
 __The University of Alabama at Huntsville__ (Huntsville, AL, US)
 
@@ -57,11 +62,11 @@ __TechTarget__
 `2007–present`
 __Principal Product Manager__, The OpenNMS Group (Atlanta, GA, US and Raleigh, NC, US)
 
-- Hired from open-source user community as employee #7
 - Product manager for entire self-hosting portion of open-source monitoring product portfolio (Horizon and Lōkahi ecosystems)
 - Various titles held, with a through line of end-user incident support, worldwide on-site service delivery, and product management
 - Speaking presentations at industry user groups and conferences including All Things Open, FOSDEM, ManageIQ Design Summit, Open Networking Summit, SCaLE, and Texas Linux Fest
 - Code and documentation contributions to OpenNMS and related projects including Net-SNMP
+- Hired from open-source user community as employee #7
 
 `2007–2007`
 __Senior Network Tools Engineer__, Cypress Communications (Atlanta, GA, US)
@@ -158,17 +163,17 @@ __Co-Grand Poobah__, Atlanta Network and Systems Management Technical User Group
 - Used connections and skills to institute recording of meetings for online viewing
 
 `1993–ongoing`
-__Lazy polyglot__ (I like knowing how to order a meal and find my way around when traveling)
+__Lazy polyglot__ (I enjoy the challenge of learning spoken languages)
 
 - English: native speaker
-- Dutch: tiny smattering (A1)
-- Swedish: very basic proficiency (A2)
 - German: generally functional (B1)
 - Spanish: rusty but decent (B1)
-- French: once highly proficient, now rather rusty (B1)
+- French: once highly proficient, now rusty (B1)
+- Swedish: very basic proficiency (A2)
+- Dutch: tiny smattering (A1)
 
 <!-- ### Footer
 
-Last updated: April 2023 -->
+Last updated: May 2023 -->
 
 
