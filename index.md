@@ -62,9 +62,9 @@ __TechTarget__
 `2007–present`
 __Principal Product Manager__, The OpenNMS Group (Atlanta, GA, US and Raleigh, NC, US)
 
-- Product manager for entire self-hosting portion of open-source monitoring product portfolio (Horizon and Lōkahi ecosystems)
-- Various titles held, with a through line of end-user incident support, worldwide on-site service delivery, and product management
-- Speaking presentations at industry user groups and conferences including All Things Open, FOSDEM, ManageIQ Design Summit, Open Networking Summit, SCaLE, and Texas Linux Fest
+- Product manager for entire self-hosting portion of open-source monitoring product portfolio (Horizon, Meridian, Minion, Sentinel, OpenNMS plugin for Grafana, others)
+- Various titles held, with a through line of end-user incident support, worldwide on-site service delivery, product management, and open-source advocacy
+- Speaking presentations at industry user groups and conferences including All Things Open, FOSDEM, Open Source Monitoring Conference, Open Networking Summit, SCaLE, and Texas Linux Fest
 - Code and documentation contributions to OpenNMS and related projects including Net-SNMP
 - Hired from open-source user community as employee #7
 
@@ -80,7 +80,7 @@ __Senior Network Tools Engineer__, Cypress Communications (Atlanta, GA, US)
 __Information Security Engineer__, BellSouth Technology Group (contract-to-hire; Atlanta, GA, US)
 
 - Responsible for operational monitoring of Check Point firewall infrastructure across a 13-state service area
-- Implemented OpenNMS to replace home-grown firewall monitoring solution based on Nagios and Cacti
+- Implemented OpenNMS to replace home-grown firewall monitoring solution based on Nagios and Cacti, working upstream with OpenNMS maintainers to fix bugs and improve test infrastructure
 - Collaborated with product owners, technical integration architects, and other internal and external stakeholders on the design and implementation of firewall rule-set changes
 
 `2002–2005`
