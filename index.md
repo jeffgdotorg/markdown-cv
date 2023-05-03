@@ -139,13 +139,19 @@ __Support and Operations Engineer__, Quest Internet Services (Florence, AL, US)
 `2018-ongoing`
 __Executive Director__, Triangle Skeptics Inc. (Raleigh, NC, US)
 
-- Stepped in to assume leadership of a group of local critical thinkers in the mold of Carl Sagan and James Randi
+- Stepped up to assume leadership of group chartered to promote science literacy, critical thinking, and media literacy
 - Led effort to incorporate group and grow its membership and reach
 
-`2017–ongoing`
-__Application Owner and Editor__, About Time Project (worldwide)
+`2017-ongoing`
+__Contributor__, QuackWatch / Center for Inquiry (Amherst, NY, US)
 
-- Responsible for development and operations of a custom software project which collects and analyzes selected page-view statistics from over a dozen language editions of Wikipedia
+- Contribute technical skills to design and carry out experiments testing claims of questionable medical devices and alternative medical treatments
+- Author articles summarizing findings
+
+`2017–ongoing`
+__Product Owner and Editor__, About Time Project (worldwide)
+
+- Product owner for a custom software project which collects and analyzes selected page-view statistics from over a dozen language editions of Wikipedia
 - Member of a Wikipedia editing team concerned with improving the science content of articles and removing unsourced claims from articles related to pseudoscience and the paranormal
 
 `2013–ongoing`
